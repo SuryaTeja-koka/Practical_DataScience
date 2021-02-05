@@ -1,0 +1,16 @@
+Lab 5 question - Conditional Probability
+
+In probability theory, conditional probability is the probability of occurring of an event where it is given that
+another event has already occurred. Try to extend this idea of calculating conditional probabilities to
+Bayes Theorem by taking the below dataset.
+
+
+https://www.kaggle.com/mukulthakur177/flood-prediction-model?select=kerala.csv
+
+The dataset contains the monthly rainfall data from years 1901 to 2018 for the Indian state of Kerala.
+
+ 1. Calculate the following
+o Calculate probability of flood given it rained more than 500 mm in June
+o Calculate Probability of rain more than 500 mm in June given it flooded that year
+o Calculate probability of flood given it rained more than 500 mm in July
+o Calculate Probability of rain more than 500 mm in July given it flooded that year
